@@ -1,0 +1,20 @@
+d:\mycalc3\mycalc3\mycalc3\bin\Debug\mycalc3.exe
+d:\mycalc3\mycalc3\mycalc3\bin\Debug\mycalc3.pdb
+d:\mycalc3\mycalc3\mycalc3\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\mycalc3\mycalc3\mycalc3\obj\x86\Debug\mycalc3.Form1.resources
+d:\mycalc3\mycalc3\mycalc3\obj\x86\Debug\mycalc3.Properties.Resources.resources
+d:\mycalc3\mycalc3\mycalc3\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\mycalc3\mycalc3\mycalc3\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\mycalc3\mycalc3\mycalc3\obj\x86\Debug\mycalc3.exe
+d:\mycalc3\mycalc3\mycalc3\obj\x86\Debug\mycalc3.pdb
+C:\Users\AriA PC\Desktop\Desktop\mycalc3\mycalc3\obj\x86\Debug\mycalc3.exe
+C:\Users\AriA PC\Desktop\Desktop\mycalc3\mycalc3\obj\x86\Debug\mycalc3.pdb
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mycalc3\mycalc3\bin\Debug\mycalc3.exe
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mycalc3\mycalc3\bin\Debug\mycalc3.pdb
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mycalc3\mycalc3\obj\x86\Debug\mycalc3.csprojResolveAssemblyReference.cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mycalc3\mycalc3\obj\x86\Debug\mycalc3.Form1.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mycalc3\mycalc3\obj\x86\Debug\mycalc3.Properties.Resources.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mycalc3\mycalc3\obj\x86\Debug\mycalc3.csproj.GenerateResource.Cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mycalc3\mycalc3\obj\x86\Debug\mycalc3.csproj.CoreCompileInputs.cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mycalc3\mycalc3\obj\x86\Debug\mycalc3.exe
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mycalc3\mycalc3\obj\x86\Debug\mycalc3.pdb
